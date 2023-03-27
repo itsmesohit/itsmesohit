@@ -1,4 +1,5 @@
-![logo](https://user-images.githubusercontent.com/127314628/227901416-30d0957f-a525-4d3c-a320-391d99513820.png)
+
+![image]([http://url.to/image.png](https://user-images.githubusercontent.com/127314628/227901416-30d0957f-a525-4d3c-a320-391d99513820.png) = 250x250)
 <h1 align="center">Hey! 👋, I'm Sohit</h1>
 <h3 align="center">I am Sohit, a Full Stack JavaScript Developer with expertise in Core Java, Object-Oriented Programming, and Data Structures and Algorithms. I honed my skills as a Product Engineer Intern at Pepcoding, where I worked on multiple web development and ML projects. Currently, I serve as a Teaching Associates at Geekster, where I help students understand complex technical concepts, facilitate doubt-solving sessions, and provide one-on-one assistance as needed. I am passionate about leveraging my knowledge and experience to develop innovative solutions and deliver exceptional results.</h3>
 
