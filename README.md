@@ -17,7 +17,7 @@ Let's connect and embark on this exciting journey of learning and growth togethe
 
 <p align="left"> <a href="https://twitter.com/itsmesohit" target="blank"><img src="https://img.shields.io/twitter/follow/itsmesohit?logo=twitter&style=for-the-badge" alt="itsmesohit" /></a> </p>
 
-- 🔭 I’m currently working at [Geekster as SDE and Instructor](https://www.geekster.in/)
+- 🔭 I’m currently working at [Software Development Engineer](https://www.amazon.com/)
 
 - 🌱 I’m currently learning **React and Node**
 
