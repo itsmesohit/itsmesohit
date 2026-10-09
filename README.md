@@ -1,4 +1,10 @@
-
+<p align="center">
+  <img
+    src="Sohit%20Kushwaha_%20Building%20Tomorrow%E2%80%99s%20Tech.png"
+    alt="Sohit Kushwaha — Building Tomorrow's Tech"
+    width="100%"
+  />
+</p>
 # Hey, I'm Sohit Kushwaha 👋
 
 ### Software Development Engineer @ Amazon | Backend Engineering | AI & Developer Tools
